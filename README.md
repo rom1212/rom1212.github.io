@@ -1,4 +1,8 @@
 
+# Verses
+
+* 22 This righteousness is given through faith in Jesus Christ to all who believe. There is no difference between Jew and Gentile, 23 for all have sinned and fall short of the glory of God, 24 and all are justified freely by his grace through the redemption that came by Christ Jesus. (Romans 3:22-24)
+
 
 # Instructions 
 
