@@ -1,7 +1,7 @@
 # Dashboard
 * Faith: [Faith Notes](docs)
 * Family: [Family Notes](docs)
-* Work: [Work Notes](docs)
+* Work: [Work Notes](docs), keep
 
 # Verses
 * Romans 3:22-24
