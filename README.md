@@ -1,7 +1,7 @@
 # Dashboard ([edit](https://github.com/romans1212notes/romans1212notes.github.io/edit/master/README.md))
 * Faith: [Faith Notes](docs)
-* Family: [Family Notes](docs), diary
-* Work: [Work Notes](docs), keep,
+* Family: Diary, [Family Notes](docs) 
+* Work: [Keep](https://keep.google.com), [Work Notes](docs), 
 
 # Verses
 * Romans 3:22-24
