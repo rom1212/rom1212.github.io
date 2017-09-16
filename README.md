@@ -1,6 +1,8 @@
 # Dashboard ([edit](https://github.com/romans1212notes/romans1212notes.github.io/edit/master/README.md), [link](https://romans1212notes.github.io/))
-Faith: wechat moments | Family: Diary | Work: [Keep](https://keep.google.com), [Work Notes](https://docs.google.com/), [Repos](https://github.com/romans1212notes), [Eng Notes](https://github.com/romans1212notes/eng-notes)
-
+Faith: wechat moments | Family: Diary | Work: [Some Time (9m) Everyday](), [Keep](https://keep.google.com), [Work Notes](https://docs.google.com/), [Repos](https://github.com/romans1212notes), [Eng Notes](https://github.com/romans1212notes/eng-notes)
+```diff
+-Some Time Everyday
+```
 # Verses
 * Romans 3:22-24
   * 22 This righteousness is given through faith in Jesus Christ to all who believe. There is no difference between Jew and Gentile, 23 for all have sinned and fall short of the glory of God, 24 and **all are justified freely** by his grace through the redemption that came by Christ Jesus. (Romans 3:22-24) 
