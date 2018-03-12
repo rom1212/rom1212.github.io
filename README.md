@@ -4,6 +4,11 @@ Faith: wechat moments | Family: Diary | Work: [Keep](https://keep.google.com), [
 - Some Time (9m) Everyday
 + Some Time (9m) Everyday
 ```
+## 2018 Year Goal
+* Read Bible with Kids 
+* Body, Exercise
+* Management - not for income
+
 ## Kubernetes
 * [Community Meeting](https://docs.google.com/document/d/1VQDIAB0OqiSjIHI8AWMvSdceWhnz56jNpZrLs6o7NJY/edit)
 * Release 1.10
