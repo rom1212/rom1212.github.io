@@ -1,9 +1,6 @@
 # Dashboard ([edit](https://github.com/rom1212/rom1212.github.io/edit/master/README.md), [link](https://rom1212.github.io/))
 Faith: wechat moments | Family: Diary | Work: [Keep](https://keep.google.com), [Work Notes](https://docs.google.com/), [Repos](https://github.com/rom1212), [Eng Notes](https://github.com/rom1212/eng-notes)
-```diff
-- Some Time (9m) Everyday
-+ Some Time (9m) Everyday
-```
+
 ## 2018 Year Goal
 * Read Bible with Kids 
 * Body, Exercise
@@ -14,6 +11,11 @@ Faith: wechat moments | Family: Diary | Work: [Keep](https://keep.google.com), [
 * Release 1.10
   * [Release Burndown Doc](https://docs.google.com/document/d/11u91ypj8Gt8PlTincWuQ3iB2X3tITBxqn6JMkTduEZw/edit): http://bit.ly/k8s110-burndown
 
+## Updated
+```diff
+- Some Time (9m) Everyday
++ Some Time (9m) Everyday
+```
 
 # Verses
 * Romans 3:22-24
