@@ -17,6 +17,8 @@ Faith: wechat moments | Family: Diary | Work: [Keep](https://keep.google.com), [
 
 ## Commits
 
+## Bible Plan
+
 ## Updated
 ```diff
 - Some Time (9m) Everyday
