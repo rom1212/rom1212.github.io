@@ -34,6 +34,9 @@ Faith: wechat moments | Family: Diary | Work: [Keep](https://keep.google.com), [
 * Psalm 30:5
   * "因 為 他 的 怒 氣 不 過 是 轉 眼 之 間 ． 他 的 恩 典 乃 是 一 生 之 久 ． 一 宿 雖 然 有 哭 泣 、 早 晨 便 必 歡 呼 。"
   * "For his anger lasts only a moment, but his favor lasts a lifetime; weeping may stay for the night, but rejoicing comes in the morning."
+* 1 John 3:20-21
+  * "20 我們的心若責備我們，神比我們的心大，一切事沒有不知道的。 21 親愛的弟兄啊，我們的心若不責備我們，就可以向神坦然無懼了。"
+  * "20 If our hearts condemn us, we know that God is greater than our hearts, and he knows everything. 21 Dear friends, if our hearts do not condemn us, we have confidence before God" 
 
 # Links
 * [Romans](https://www.bible.com/bible/111/ROM.3.cunpss?parallel=48)
