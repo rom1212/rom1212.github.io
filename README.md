@@ -1,30 +1,11 @@
 # Dashboard ([edit](https://github.com/rom1212/rom1212.github.io/edit/master/README.md), [link](https://rom1212.github.io/))
 Faith: wechat moments | Family: Diary | Work: [Keep](https://keep.google.com), [Work Notes](https://docs.google.com/), [Repos](https://github.com/rom1212), [Eng Notes](https://github.com/rom1212/eng-notes)
 
-## 2018 Year Goal
+## 2018/2019 Year Goal
 * Read Bible with Kids 
 * Body, Exercise
 * Management - not for income
-
-## Kubernetes
-* [Community Meeting](https://docs.google.com/document/d/1VQDIAB0OqiSjIHI8AWMvSdceWhnz56jNpZrLs6o7NJY/edit)
-* Release 1.10
-  * [Release Burndown Doc](https://docs.google.com/document/d/11u91ypj8Gt8PlTincWuQ3iB2X3tITBxqn6JMkTduEZw/edit): http://bit.ly/k8s110-burndown
   
-## Pull Requests/Merge Requests/Code Review
-
-## Issues
-
-## Commits
-
-## Bible Plan
-
-## Updated
-```diff
-- Some Time (9m) Everyday
-+ Some Time (9m) Everyday
-```
-
 # Verses
 * Romans 3:22-24
   * 22 This righteousness is given through faith in Jesus Christ to all who believe. There is no difference between Jew and Gentile, 23 for all have sinned and fall short of the glory of God, 24 and **all are justified freely** by his grace through the redemption that came by Christ Jesus. (Romans 3:22-24) 
@@ -40,3 +21,18 @@ Faith: wechat moments | Family: Diary | Work: [Keep](https://keep.google.com), [
 
 # Links
 * [Romans](https://www.bible.com/bible/111/ROM.3.cunpss?parallel=48)
+
+## Pull Requests/Merge Requests/Code Review
+
+## Issues
+
+## Commits
+
+## Bible Plan
+
+## Updated
+```diff
+- Some Time (9m) Everyday
++ Some Time (9m) Everyday
+```
+
